@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\bin\Debug\net7.0\IDS.Core.deps.json
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\bin\Debug\net7.0\IDS.Core.runtimeconfig.json
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\bin\Debug\net7.0\IDS.Core.dll
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\bin\Debug\net7.0\IDS.Core.pdb
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.dll
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\refint\IDS.Core.dll
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.pdb
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\IDS.Core.genruntimeconfig.cache
+C:\Users\hp\source\repos\FinalBookingSystem\IDS.Core\obj\Debug\net7.0\ref\IDS.Core.dll
